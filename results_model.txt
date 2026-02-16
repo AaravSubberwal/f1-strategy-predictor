@@ -1,0 +1,4 @@
+🚀 Training model...
+✅ Model trained successfully!
+📊 MAE: 1.520 seconds | R²: 0.866
+💾 Model saved to models/lap_time_predictor.pkl

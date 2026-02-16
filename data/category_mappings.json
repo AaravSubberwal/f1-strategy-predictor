@@ -1,0 +1,43 @@
+{
+    "Driver": {
+        "0": "ALB",
+        "1": "ALO",
+        "2": "BOT",
+        "3": "DEV",
+        "4": "GAS",
+        "5": "HAM",
+        "6": "HUL",
+        "7": "LEC",
+        "8": "MAG",
+        "9": "NOR",
+        "10": "OCO",
+        "11": "PER",
+        "12": "PIA",
+        "13": "RUS",
+        "14": "SAI",
+        "15": "SAR",
+        "16": "STR",
+        "17": "TSU",
+        "18": "VER",
+        "19": "ZHO"
+    },
+    "Team": {
+        "0": "Alfa Romeo",
+        "1": "AlphaTauri",
+        "2": "Alpine",
+        "3": "Aston Martin",
+        "4": "Ferrari",
+        "5": "Haas F1 Team",
+        "6": "McLaren",
+        "7": "Mercedes",
+        "8": "Red Bull Racing",
+        "9": "Williams"
+    },
+    "Compound": {
+        "0": "HARD",
+        "1": "INTERMEDIATE",
+        "2": "MEDIUM",
+        "3": "SOFT",
+        "4": "WET"
+    }
+}

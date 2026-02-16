@@ -1,0 +1,3 @@
+✅ Preprocessed 1512 laps.
+✅ Saved processed data to data/processed_monaco.csv
+✅ Saved driver/team name mappings to data/category_mappings.json

@@ -1,0 +1,17 @@
+🏎️ Evaluating pit strategies... this may take a few seconds.
+
+
+🏁 Top 5 Best Strategies:
+   Stops PitLaps    TotalTime
+0      1   (10,)  6581.398926
+1      1   (20,)  6590.389160
+2      1   (30,)  6604.713379
+3      1   (40,)  6615.266113
+4      1   (50,)  6628.689941
+
+🚀 Optimal Strategy Found:
+👉 Number of pit stops: 1
+👉 Pit on laps: (10,)
+👉 Predicted Total Race Time: 6581.40 seconds
+
+✅ All strategy results saved to data/final_strategy_results.csv
